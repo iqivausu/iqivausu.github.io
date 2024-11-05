@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iqivausu.github.io/Jrc/sitemap_index.txt
+Sitemap: https://iqivausu.github.io/Leq/sitemap_index.txt
+Sitemap: https://iqivausu.github.io/Qld/sitemap_index.txt
+Sitemap: https://iqivausu.github.io/VOR/sitemap_index.txt
